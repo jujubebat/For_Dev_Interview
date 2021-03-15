@@ -1,4 +1,4 @@
-# 💻 For_Dev_Interview
+# 📖 For_Dev_Interview
 - 기술 면접에 필요한 지식을 간단 정리하는 저장소 입니다.
 
 # 카테고리
