@@ -1,5 +1,5 @@
-# 💻 Computer-Sicence-Study
-- 컴퓨터공학 지식을 간단하게 정리하는 저장소 입니다.
+# 💻 For_Dev_Interview
+- 기술 면접에 필요한 지식을 간단 정리하는 저장소 입니다.
 
 # 카테고리
 - [자료구조 & 알고리즘](https://github.com/jujubebat/Computer-Sicence-Study/blob/main/DataStruture%26Algorithm.md)
